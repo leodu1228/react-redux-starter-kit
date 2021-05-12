@@ -91,5 +91,12 @@
     "webpack-dev-middleware": "^1.8.4",
     "webpack-hot-middleware": "^2.13.2",
     "yargs": "^8.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/davezuko/react-redux-starter-kit/issues"
+  },
+  "homepage": "https://github.com/davezuko/react-redux-starter-kit#readme",
+  "directories": {
+    "test": "tests"
   }
 }
